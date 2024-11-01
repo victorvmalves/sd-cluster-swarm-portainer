@@ -7,7 +7,7 @@ services:
       context: .
       dockerfile: Dockerfile
     deploy:
-      replicas: 5  # Número de réplicas
+      replicas: 2  # Número de réplicas
       placement:
         constraints: [node.role == worker]
     networks:
