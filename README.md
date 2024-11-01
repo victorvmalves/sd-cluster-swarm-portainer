@@ -1,4 +1,4 @@
-# Instruções para Configuração e Deploy de Aplicação com Docker Swarm no 'Play with Docker'
+# Instruções para Configuração e Deploy de Aplicação com Docker Swarm no 'Play with Docker' (com Portainer)
 
 Este guia fornece instruções passo a passo para clonar um repositório, construir a imagem Docker e fazer o deploy da aplicação utilizando Docker Swarm no 'Play with Docker'.
 
