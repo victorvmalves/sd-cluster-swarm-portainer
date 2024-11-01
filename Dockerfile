@@ -5,8 +5,6 @@ FROM node:14
 WORKDIR /usr/src/app
 
 # Copiando o package.json e instalando as dependências
-COPY package*.json ./
-RUN npm install
 
 # Copiando o restante da aplicação
 COPY . .
